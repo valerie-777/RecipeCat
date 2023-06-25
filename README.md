@@ -40,7 +40,7 @@ The following technologies and frameworks are being used for the development of 
 
 ## Installation and Usage
 
-1. Clone the repository: `git clone https://github.com/aarinda/recipe-app.git`
+1. Clone the repository: `git clone https://github.com/aarinda/Recipe-Book.git`
 2. Open the project in Android Studio.
 3. Build and run the application on a preferred emulator or physical device.
 
