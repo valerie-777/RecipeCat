@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.recipebook'
+    namespace 'com.example.recipes'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.recipebook"
+        applicationId "com.example.recipes"
         minSdk 24
         targetSdk 33
         versionCode 1
