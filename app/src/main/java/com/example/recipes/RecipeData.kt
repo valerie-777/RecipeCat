@@ -1,7 +1,5 @@
 package com.example.recipes
 
-import com.example.recipes.R
-
 object RecipeData {
     val recipeList: List<Recipe> = listOf(
         Recipe(
