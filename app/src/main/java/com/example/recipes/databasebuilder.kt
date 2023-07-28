@@ -9,7 +9,7 @@ import androidx.room.RoomDatabase
 @Database(entities = [Recipe::class], version = 1, exportSchema = false)
 abstract class  RecipeDB : RoomDatabase() {
 
-    abstract fun RecipeDao(): Dao
+    abstract fun  Dao(): Dao
 
     companion object {
         @Volatile
